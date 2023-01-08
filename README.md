@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kingofhollows099
 - 👀 I’m interested in Programming, reading, and gaming!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently fluent in Python, and learning Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
