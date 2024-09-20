@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kingofhollows099
 - 👀 I’m interested in Programming, anime, and gaming!
 - 🌱 I’m currently fluent in Python and Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at kingofhollows099@gmail.com
 
 <!---
